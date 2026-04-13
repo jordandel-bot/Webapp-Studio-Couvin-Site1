@@ -32,3 +32,8 @@ h1 {
 .hidden {
     display: none;
 }
+
+.colonnes {
+    display: flex;
+    justify-content: space-around;
+}
